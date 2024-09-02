@@ -1,5 +1,5 @@
 
-# Project Title
+# Custom user-level threads lib
 
 Creating a custom user-level threads library using POSIX C
 
